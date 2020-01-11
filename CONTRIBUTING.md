@@ -17,3 +17,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+Biite sende eine Email an die Firma xyz mail@xyz.
